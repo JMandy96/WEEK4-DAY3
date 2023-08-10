@@ -124,3 +124,5 @@ WHERE customer_id IN (
 SELECT amount
 FROM payment
 WHERE amount = 0;
+
+--ANSWER: no free rentals?
